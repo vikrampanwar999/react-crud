@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "vikrampanwar999.github.io/react-crud/static/css/main.740d0343.chunk.css"
   },
   {
-    "revision": "c373baa08c89a871d368a1f6bc5dc6b3",
+    "revision": "78e51fa0ed2bb1447636608926507814",
     "url": "vikrampanwar999.github.io/react-crud/index.html"
   }
 ];
