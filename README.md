@@ -1,6 +1,6 @@
-# React CRUD App with Hooks
+# React CRUD App
 
-Running React 16.7.0-alpha
+
 
 - View all users
 - Add a new user
